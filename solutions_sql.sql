@@ -141,22 +141,3 @@ WHERE
 	 MONTH(clicks.created_at) = 11
      AND 
      MONTH(users.registered_at) = 11;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
